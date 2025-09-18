@@ -47,7 +47,7 @@ figure#figure2 {
 }
 
 figure#figure3 {
-   -webkit-filter: saturate(1.5) contrast (1.2);
+   -webkit-filter: saturate(1.5) contrast(1.2);
    filter: saturate(1.5) contrast(1.2);
 }
 
